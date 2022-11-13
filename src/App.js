@@ -1,5 +1,4 @@
 import './App.css';
-import { ethers } from 'ethers';
 function App() {
   const connectwallet = async () => {
     const targetNetworkId = '0x1';
